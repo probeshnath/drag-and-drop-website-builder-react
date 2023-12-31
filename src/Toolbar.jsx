@@ -25,7 +25,7 @@ const Image = () => {
 
 const Toolbar = () => {
   return (
-    <div className='flex justify-center items-center md:items-start gap-5 bg-blue-600 h-[15vh] md:h-screen w-full md:w-[20vh]'  >
+    <div className='flex justify-center items-center md:items-start gap-5 pt-5 bg-blue-600 h-[15vh] md:h-screen w-full md:w-[30vw]'  >
       <div className='bg-orange-400 py-2 px-8 rounded-md cursor-move'>
       <Text />
       </div>

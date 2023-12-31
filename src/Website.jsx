@@ -89,7 +89,7 @@ const Website = () => {
   };
   return (
     <div>
-      <div className='relative bg-purple-600 flex flex-col gap-5  justify-center items-center' ref={drop} style={{ border: '1px solid #ccc', minHeight: '100vh', minWidth:'70vw' }}>
+      <div className='relative bg-purple-600 flex flex-col gap-5 h-[83vh] md:h-[100vh] w-[100vw] md:w-[70vw]  justify-center items-center ' ref={drop} >
        <button className='right-4 top-4 bg-green-400 py-2 px-5 rounded-md text-white font-semibold absolute' onClick={handleSave}>Save</button>
        {elements.map((element, index) => (
           <div key={index}>
