@@ -1,8 +1,19 @@
-# React + Vite
+# React Drag and Drop Website Builder
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a react website, where user can create a static drag and drop website.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+- [Live Link](https://cute-babka-97e8a5.netlify.app/) 
+
+## Project run on your local machine
+
+- git clone
+- npm install
+- npm run dev
+
+## TackStack
+- React
+- React-dnd
+- Tailwind CSS
+- Host: Netlify 
