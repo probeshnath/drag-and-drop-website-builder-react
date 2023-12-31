@@ -5,7 +5,7 @@ import Website from './Website';
 
 function App() {
   return (
-    <div className='flex w-full max-w-7xl mx-auto'>
+    <div className='md:flex w-full max-w-7xl mx-auto'>
       <Toolbar />
       <Website />
     </div>
